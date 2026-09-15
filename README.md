@@ -4,7 +4,6 @@
   <a href="https://suminmaharjan98.com.np/"><img src="https://img.shields.io/badge/🌐_Portfolio-123510?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/sumin-maharjan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:suminmhrzn18@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=sumin9867&style=for-the-badge&color=02569B&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">
@@ -103,14 +102,6 @@ I'm **Sumin**, a Flutter Developer based in Kathmandu, building cross-platform m
     <td>Android share-target app backed by Supabase Edge Functions</td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="98%" src="https://ghchart.rshah.org/02569B/sumin9867" alt="Sumin's GitHub contribution chart">
-</p>
 
 ---
 
