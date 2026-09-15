@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"></a>
+  <a href="https://github.com/sumin9867/protfolio"><img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"></a>
   <a href="mailto:baikuntha@ramlaxmangroup.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -14,9 +14,10 @@
 
 ### About me
 
-- 🔭 I build production Flutter apps — clean architecture, state management, and pixel-accurate UI
-- 🌱 Currently going deeper into **Dart 3 patterns**, **Riverpod**, and native platform channels
-- 💬 Ask me about Flutter, Dart, mobile architecture, or shipping to the App Store & Play Store
+- 🔭 I build Flutter apps end to end — realtime audio, WebRTC calling, maps, and offline-first data
+- 📦 I publish reusable Dart packages, like [`country_geocode_picker`](https://github.com/sumin9867/country_geocode_picker) — 200+ countries, zero network calls
+- 🌱 Currently going deeper into realtime streaming APIs, WebRTC, and clean Flutter architecture
+- 💬 Ask me about Flutter, Dart, platform channels, or shipping to the Play Store & App Store
 - ⚡ I care about apps that stay fast on cheap phones, not just flagship ones
 
 ---
@@ -26,14 +27,16 @@
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Riverpod-4A5568?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod">
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black" alt="PocketBase">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -42,9 +45,11 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**Project One**](https://github.com/sumin9867) | One line on the problem it solves | Flutter · Firebase |
-| [**Project Two**](https://github.com/sumin9867) | One line on the problem it solves | Flutter · REST |
-| [**Project Three**](https://github.com/sumin9867) | One line on the problem it solves | Dart |
+| [**Live Transcribe**](https://github.com/sumin9867/Live-Transcribe-With-Eleven-Labs-Api) | Real-time speech-to-text over the ElevenLabs Scribe WebSocket API — live partial transcripts, word-level timestamps, background recording, auto-reconnect | Flutter · WebSockets |
+| [**country_geocode_picker**](https://github.com/sumin9867/country_geocode_picker) | Drop-in searchable country picker & dial-code phone field. 200+ countries bundled — no API keys, no network calls | Dart package |
+| [**Proxima**](https://github.com/sumin9867/proxima) | Local-network voice & video calling. Devices join over Wi-Fi or hotspot via QR — peer-to-peer, no internet needed | Flutter · WebRTC |
+| [**LinkSaver**](https://github.com/sumin9867/linksaver) | Android share-target app that extracts a shared link through a Supabase Edge Function, saves the video, and copies the caption | Flutter · Supabase |
+| [**Portfolio**](https://github.com/sumin9867/protfolio) | Hand-coded rebuild of my Framer portfolio, with a reverse-engineered design system | Vite · React · TS · Tailwind |
 
 ---
 
